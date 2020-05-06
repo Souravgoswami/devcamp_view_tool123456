@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-    DevcampViewTool123456::Renderer.copyright 'sourav goswami', 'all rights reserved'
+    DevcampViewTool123456::Renderer.copyright('sourav goswami', 'all rights reserved').html_safe
 ```
 
 ## Development
